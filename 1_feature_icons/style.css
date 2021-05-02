@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+body{
+  font-family: Poppins !important;
+}
+
+.cs-feature-icons{
+  border: 1px solid rgba(0,0,0,0.15);
+  padding:50px 80px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: center;
+}
+
+
+.cs-feature-icons a{
+  font-size: 15px;
+  color: #a0ce4e;
+  text-decoration: none;
+}
+
+.cs-feature-icons i{
+  font-size: 40px;
+  color:#a0ce4e;
+  margin-bottom: 30px;
+}
+
+.cs-feature-icons p{
+  margin-top: 15px;
+  font-size: 15px;
+  color: #aaa;
+}
