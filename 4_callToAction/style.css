@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+
+body {
+  font-family: Poppins !important;
+}
+
+.cm-center {
+  text-align: center;
+}
+.cm-captialize {
+  text-transform: uppercase;
+}
+
+.cm-btn-rect {
+  padding: 12px 40px;
+  border-radius: 0px;
+}
+
+.cm-opacity {
+  opacity: 0.5;
+}
+
+.cm-alt-text {
+  letter-spacing: 2px;
+  line-height: 30px;
+  font-size: 15px;
+  display: block;
+}
+
+.cm-cta h2 {
+  font-size: 55px;
+  line-height: 59px;
+  letter-spacing: -2px;
+}
+
+.cm-fw-500 {
+  font-weight: 500;
+}
+
+.cm-fw-300 {
+  font-weight: 300;
+}
+
+.cm-fw-600 {
+  font-weight: 600;
+}
+
+.cs-bg-dark {
+  background: url("https://lithohtml.themezaa.com/images/home-corporate-img-05.jpg");
+}
+
+.cs-bg-overlay {
+  background: rgba(0, 0, 0, 0.85);
+  padding: 130px 0;
+}
+
+.cs-bg-dark h4 {
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: -0.5px;
+  text-align: left;
+}
